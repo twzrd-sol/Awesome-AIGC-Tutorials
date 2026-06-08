@@ -244,6 +244,7 @@ We warmly welcome contributions from everyone, whether you've found a typo, a bu
   ![](https://img.shields.io/badge/Level-Hard-red)
   - Explore the synergy between systems and machine learning by dissecting recent research on efficient ML hardware/software and applying ML to system design, culminating in hands-on projects and deep discussions for graduate students.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## 🗂 Miscellaneous
 
 ### ✨ Star History
